@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "GETCHA!",
+  "base_artist": "Giga和綺羅",
+  "createdAt": "2025-12-01T08:02:19.311367Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Getcha Boi",
+      "artist": "Bicep",
+      "has_synced": false,
+      "path": "select/01_Getcha_Boi_Bicep.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Get'cha Paper",
+      "artist": "Royce da 5'9\" feat. Tre' Little",
+      "has_synced": false,
+      "path": "select/02_Get'cha_Paper_Royce_da_5'9__feat._Tre'_Little.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gotta Getcha",
+      "artist": "Whigfield",
+      "has_synced": false,
+      "path": "select/03_Gotta_Getcha_Whigfield.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gotta Getcha",
+      "artist": "Whigfield",
+      "has_synced": true,
+      "path": "select/04_Gotta_Getcha_Whigfield.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Get'cha Thug On",
+      "artist": "Bone Thugs-n-Harmony",
+      "has_synced": true,
+      "path": "select/05_Get'cha_Thug_On_Bone_Thugs-n-Harmony.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Might Getcha",
+      "artist": "David Banner feat. Lil Jon",
+      "has_synced": false,
+      "path": "select/06_Might_Getcha_David_Banner_feat._Lil_Jon.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Might Getcha (feat. Lil Jon)",
+      "artist": "David Banner",
+      "has_synced": false,
+      "path": "select/07_Might_Getcha_(feat._Lil_Jon)_David_Banner.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Can’t Getcha Offa My Mind",
+      "artist": "Survivor",
+      "has_synced": true,
+      "path": "select/08_Can’t_Getcha_Offa_My_Mind_Survivor.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Getcha Rocks Off - The 'Def Leppard E.P.' Version",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/09_Getcha_Rocks_Off_-_The_'Def_Leppard_E.P.'_Version_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Getcha Rocks Off (single version)",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/10_Getcha_Rocks_Off_(single_version)_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gonna Getcha",
+      "artist": "Great White",
+      "has_synced": true,
+      "path": "select/11_Gonna_Getcha_Great_White.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Getcha Groove On (Dirt Road remix)",
+      "artist": "Limp Bizkit",
+      "has_synced": false,
+      "path": "select/12_Getcha_Groove_On_(Dirt_Road_remix)_Limp_Bizkit.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Getcha Groove On (Remix By Premier)",
+      "artist": "Limp Bizkit",
+      "has_synced": false,
+      "path": "select/13_Getcha_Groove_On_(Remix_By_Premier)_Limp_Bizkit.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "God Ain't Gonna Getcha For That",
+      "artist": "Shania Twain",
+      "has_synced": false,
+      "path": "select/14_God_Ain't_Gonna_Getcha_For_That_Shania_Twain.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'm Gonna Getcha Good",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/15_I'm_Gonna_Getcha_Good_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'm Gonna Getcha Good!",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/16_I'm_Gonna_Getcha_Good!_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I'm Gonna Getcha Good! (Red Version)",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/17_I'm_Gonna_Getcha_Good!_(Red_Version)_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I’m Gonna Getcha Good!",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/18_I’m_Gonna_Getcha_Good!_Shania_Twain.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GETCHA! (feat. 初音ミク & GUMI)",
+      "artist": "Giga, KIRA, 初音ミク, GUMI",
+      "has_synced": false,
+      "path": "select/pl_01_GETCHA!_(feat._初音ミク_&_GUMI)_Giga,_KIRA,_初音ミク,_GUMI.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "GETCHA! (feat. 初音ミク & GUMI)",
+      "artist": "Giga, KIRA, 初音ミク, GUMI",
+      "has_synced": false,
+      "path": "select/pl_02_GETCHA!_(feat._初音ミク_&_GUMI)_Giga,_KIRA,_初音ミク,_GUMI.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "GETCHA!(Cover ver. 2023)",
+      "artist": "Giga, KIRA, 初音ミク, GUMI",
+      "has_synced": false,
+      "path": "select/pl_03_GETCHA!(Cover_ver._2023)_Giga,_KIRA,_初音ミク,_GUMI.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "GETCHA!",
+      "artist": "Giga, KIRA, 初音ミク, GUMI",
+      "has_synced": false,
+      "path": "select/pl_04_GETCHA!_Giga,_KIRA,_初音ミク,_GUMI.txt"
+    }
+  ]
+}
